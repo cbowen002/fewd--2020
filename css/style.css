@@ -4,10 +4,9 @@
     color:  chartreuse
 }
 
-div {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 1200px;
+.center_img {
+    margin: 50px;
+    text-align: center;
+    padding: 20px;
 
 }
